@@ -8,3 +8,14 @@
     background-color: rgba(151, 45, 163, 0.849);
 
 }
+
+.secondCategory{
+
+    height: 50px;
+    width: 480px;
+    margin: 15px;
+    border: 5px solid blue;
+    border-radius: 10px;
+    background-color: rgba(151, 45, 163, 0.849);
+
+}
