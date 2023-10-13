@@ -13,25 +13,33 @@ section{
 
     height: 200px;
     width: 150px;
-    margin-left: 150px;
+    margin-left: 1em;
     border: 5px solid blue;
     border-radius: 10px;
     background-color: rgba(151, 45, 163, 0.849);
     display: inline-block;
     border: 5px solid red;
-    padding: 1rem 1rem;
+    padding: 1em 1em;
     vertical-align: middle;
+    font-size:16px;
+}
+
+.section{
 
 }
 
 .column{
-    height: 50px;
+    height: 125px;
     width:100px;
-    margin-left:300px;
+    margin-left:3em;
     border: 6px solid blue;
     border-radius: 12.5px;
     background-color: rgba(42, 158, 142, 0.849);
     display: inline-block;
-    padding: 1 rem 1 rem;
+    padding: 20px 1em 1em;
     vertical-align: middle;
+}
+
+.column-b{
+    margin-top: 6em;
 }
